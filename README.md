@@ -1,4 +1,4 @@
-# 🌍 Res - Q - Net
+# 🌍 Res - Q - tech
 
 frontend webpage :- https://resq-tech.vercel.app/
 frontend code :- https://github.com/Aarwin10/ResQ-tech
